@@ -1,7 +1,7 @@
 
 /*buttons*/
 
-input {
+button {
   position: relative;
   display: flex;
   justify-content: center;
@@ -19,7 +19,7 @@ input {
   margin-left: 200px;
 }
 
-input:hover {
+button:hover {
   background-color: #214A20;
   border: 2px solid #214A20;
   transition: all 0.3s ease-in;
